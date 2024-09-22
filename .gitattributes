@@ -1,0 +1,5 @@
+# Auto-detect text files and normalize their line endings
+* text=auto
+
+# Handle node_modules (binary files) to avoid modifying line endings
+node_modules/* binary
